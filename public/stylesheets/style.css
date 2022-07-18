@@ -77,17 +77,6 @@ header {
   font-size: 3rem;
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
-.badge-danger {
-  color: #fff;
-  background-color: #dc3545;
-}
-
-.badge-pill {
-  padding-right: 0.6em;
-  padding-left: 0.6em;
-  border-radius: 10rem;
-}
-
 
 @media screen and (max-width: 992px) {
 
